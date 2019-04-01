@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SSW690 Project Demo
 
 Urls:
@@ -7,3 +8,7 @@ Urls:
 
 
 Database: PostgreSQL
+=======
+# QuAck
+SSW690 Project demo
+>>>>>>> 82cc0463c3ef01e11e24d8b45d0882d30945153e
